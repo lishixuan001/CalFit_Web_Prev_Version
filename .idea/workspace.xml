@@ -1,63 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="989fa73a-b5d1-49d6-a1e7-355dd3a68b7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/gurobi.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/helper_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/migrations/0002_record_date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/migrations/0003_record_steps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/migrations/0004_auto_20190130_1750.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/migrations/0005_auto_20190130_1758.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/migrations/0006_auto_20190203_0848.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/migrations/0007_auto_20190205_0608.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/migrations/0008_auto_20190205_2220.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/migrations/0009_auto_20190205_2221.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/migrations/0010_auto_20190212_1227.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/static/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/static/css/fira_sans.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/static/css/fontawesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/static/css/history.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/static/css/index_page.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/static/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/static/css/registration.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/static/css/w3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/static/css/welcome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/static/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/static/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/static/js/ionicons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/static/js/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/static/js/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/static/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/static/js/velocity.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/templates/history.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/templates/registration.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/templates/welcome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calfit/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gurobi.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/celery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shellscript.py" afterDir="false" />
-    </list>
+    <list default="true" id="989fa73a-b5d1-49d6-a1e7-355dd3a68b7f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,12 +18,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="2" />
+          <entry key="py" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="2" />
+          <entry key="Python" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -96,10 +40,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/calfit/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2352">
+            <state>
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -107,14 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/calfit/helper_methods.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="596">
-              <caret line="51" column="30" lean-forward="true" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#27#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="23">
+              <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -159,6 +100,11 @@
               <item name="CalFit_Web" type="b2602c69:ProjectViewProjectNode" />
               <item name="CalFit_Web" type="462c0819:PsiDirectoryNode" />
               <item name="calfit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CalFit_Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CalFit_Web" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -266,21 +212,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/calfit/views.py">
+    <entry file="file://$PROJECT_DIR$/calfit/helper_methods.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2352">
+        <state relative-caret-position="23">
+          <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/celery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#0#56#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/calfit/helper_methods.py">
+    <entry file="file://$PROJECT_DIR$/calfit/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="51" column="30" lean-forward="true" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
+        <state>
           <folding>
-            <element signature="e#0#27#0" expanded="true" />
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
